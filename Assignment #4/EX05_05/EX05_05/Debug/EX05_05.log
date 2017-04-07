@@ -1,0 +1,98 @@
+﻿  Transaction.cpp
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(11): error C3646: 'name': unknown override specifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(15): error C2143: syntax error: missing ';' before '<'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(15): error C2238: unexpected token(s) preceding ';'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(18): error C2061: syntax error: identifier 'string'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(18): error C2535: 'Account::Account(void)': member function already defined or declared
+  \\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(16): note: see declaration of 'Account::Account'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(27): error C3646: 'getName': unknown override specifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(27): error C2059: syntax error: '('
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(27): error C2238: unexpected token(s) preceding ';'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(28): error C2061: syntax error: identifier 'string'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.h(14): error C3646: 'description': unknown override specifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.h(17): error C2061: syntax error: identifier 'string'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.cpp(5): error C2061: syntax error: identifier 'string'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.cpp(9): error C2065: 'description': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.cpp(9): error C2065: 'newDescription': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.cpp(18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.cpp(28): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  testDate.cpp
+  Main.cpp
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(11): error C3646: 'name': unknown override specifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(15): error C2143: syntax error: missing ';' before '<'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(15): error C2238: unexpected token(s) preceding ';'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(18): error C2061: syntax error: identifier 'string'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(18): error C2535: 'Account::Account(void)': member function already defined or declared
+  \\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(16): note: see declaration of 'Account::Account'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(27): error C3646: 'getName': unknown override specifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(27): error C2059: syntax error: '('
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(27): error C2238: unexpected token(s) preceding ';'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(28): error C2061: syntax error: identifier 'string'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.h(14): error C3646: 'description': unknown override specifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\transaction.h(17): error C2061: syntax error: identifier 'string'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\main.cpp(11): error C2661: 'Account::Account': no overloaded function takes 4 arguments
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\main.cpp(14): error C2039: 'getName': is not a member of 'Account'
+  \\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(7): note: see declaration of 'Account'
+  Date.cpp
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\date.cpp(9): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\date.cpp(19): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\date.cpp(43): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  Account.cpp
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(11): error C3646: 'name': unknown override specifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(15): error C2143: syntax error: missing ';' before '<'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(15): error C2238: unexpected token(s) preceding ';'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(18): error C2061: syntax error: identifier 'string'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(18): error C2535: 'Account::Account(void)': member function already defined or declared
+  \\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(16): note: see declaration of 'Account::Account'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(27): error C3646: 'getName': unknown override specifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(27): error C2059: syntax error: '('
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(27): error C2238: unexpected token(s) preceding ';'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(28): error C2061: syntax error: identifier 'string'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(17): error C2065: 'string': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(17): error C2146: syntax error: missing ')' before identifier '_name'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(18): error C2143: syntax error: missing ';' before '{'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(18): error C2447: '{': missing function header (old-style formal list?)
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(33): error C2065: 'Date': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(33): error C2146: syntax error: missing ';' before identifier 'dateToday'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(33): error C3861: 'dateToday': identifier not found
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(34): error C2065: 'Transaction': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(34): error C2146: syntax error: missing ';' before identifier 'newTransaction'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(34): error C3861: 'newTransaction': identifier not found
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(35): error C2065: 'transactions': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(35): error C2228: left of '.push_back' must have class/struct/union
+  \\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(35): note: type is 'unknown-type'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(35): error C2065: 'newTransaction': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(41): error C2065: 'Date': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(41): error C2146: syntax error: missing ';' before identifier 'dateToday'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(41): error C3861: 'dateToday': identifier not found
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(42): error C2065: 'Transaction': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(42): error C2146: syntax error: missing ';' before identifier 'newTransaction'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(42): error C3861: 'newTransaction': identifier not found
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(43): error C2065: 'transactions': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(43): error C2228: left of '.push_back' must have class/struct/union
+  \\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(43): note: type is 'unknown-type'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(43): error C2065: 'newTransaction': undeclared identifier
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(52): error C2511: 'int Account::setID(int)': overloaded member function not found in 'Account'
+  \\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(7): note: see declaration of 'Account'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(53): error C2597: illegal reference to non-static member 'Account::id'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(66): error C2039: 'getName': is not a member of 'Account'
+  \\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.h(7): note: see declaration of 'Account'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(66): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(66): error C2146: syntax error: missing ';' before identifier 'getName'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(67): error C2143: syntax error: missing ';' before '{'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(67): error C2447: '{': missing function header (old-style formal list?)
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(71): error C2146: syntax error: missing ')' before identifier 'Name'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(72): error C2143: syntax error: missing ';' before '{'
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_05\ex05_05\account.cpp(72): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

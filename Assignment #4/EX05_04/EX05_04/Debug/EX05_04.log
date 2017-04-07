@@ -1,0 +1,12 @@
+﻿  Main.cpp
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_04\ex05_04\main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_04\ex05_04\main.cpp(25): warning C4101: 'i': unreferenced local variable
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_04\ex05_04\main.cpp(45): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  \\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_04\ex05_04\main.cpp(34): note: see reference to function template instantiation 'void shuffle<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+\\cs1\2020\lmoon20\cs172-1\assignment #4\ex05_04\ex05_04\main.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  EX05_04.vcxproj -> \\cs1\2020\lmoon20\CS172-1\Assignment #4\EX05_04\Debug\EX05_04.exe
+  EX05_04.vcxproj -> \\cs1\2020\lmoon20\CS172-1\Assignment #4\EX05_04\Debug\EX05_04.pdb (Full PDB)
